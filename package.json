@@ -1,0 +1,8 @@
+{
+  "name": "forReactDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xrxv5/learningAboutReactJS.git",
+  "author": "谢任翔 <xierenxiang@ccuol.com>",
+  "license": "MIT"
+}
